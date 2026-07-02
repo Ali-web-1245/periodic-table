@@ -6,4 +6,4 @@ An interactive Periodic Table web application built with HTML, CSS, and JavaScri
 
 ## Skill
 - HTML
-_ CSS
+- CSS
